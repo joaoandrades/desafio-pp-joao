@@ -8,7 +8,7 @@
 
 - Envie a imagem para o dockerhub:
 
- `docker push jonnyff/simpleapp-python:2.0`
+ `docker push jonnyff/simpleapp-python:1.0`
 
 #### 2. A partir da imagem criada, crie os seguintes yaml para subir a aplicação em Kubernetes:
 
