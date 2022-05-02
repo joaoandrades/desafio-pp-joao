@@ -4,7 +4,7 @@
 
 - Crie uma imagem Docker da aplicação desse repositório:
 
- `docker image build -t jonnyff/simpleapp-python:2.0`
+ `docker image build -t jonnyff/simpleapp-python:1.0`
 
 - Envie a imagem para o dockerhub:
 
