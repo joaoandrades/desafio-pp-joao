@@ -105,3 +105,8 @@ Nessa caso eu usei um helm chart que sobe a stack completa de Prometheus e Grafa
 Prometheus: `kubectl port-forward prometheus-prometheus-kube-prometheus-prometheus-0 --namespace default 9091:9090`
 
 Grafana: `kubectl port-forward prometheus-grafana-64dd94bb65-b6dv6 --namespace default 3001:3000`
+
+
+Dashboard de Exemplo:
+
+![Dashboard de exemplo](./dash_example.png)
