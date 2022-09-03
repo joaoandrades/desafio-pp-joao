@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: simpleapp
-          image: jonnyff/simpleapp-python:1.0
+          image: jonnyff/simpleapp-python:2.0
           imagePullPolicy: Always
           envFrom:
             - configMapRef:
